@@ -1,0 +1,15 @@
+{
+  "name": "Sagar Royal Ultimate Clock",
+  "short_name": "SagarClock",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000040",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3239/3239304.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
